@@ -1,4 +1,4 @@
-# The Algorihmic Value of Life
+# The Algorithmic Value of Life
 
 AVOL. Explicit Value, Consistent Morality.
 
