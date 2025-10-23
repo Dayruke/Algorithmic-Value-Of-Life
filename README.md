@@ -26,7 +26,7 @@ It works like this:
 ```mermaid
 graph LR
 1["Problem Involving<br>Living Entities"]
-2["AVOL Script"]
+2["Eval Script"]
 3["Behavior according to<br>Values"]
 1--"Data on<br>Living Entities"-->2
 2--Values-->3
