@@ -60,7 +60,7 @@ Rules are *managed*. We shouldn't expect perfection at first go. The fact that t
 
 In the "paperclip maximizer" example, a poorly-aligned AI would kill people in order to make more paperclips.
 
-We want the AI to value human life, but we currently lack a clear, explicit way to provide the input it needs to understand 'how' valuable life is; AVOL is designed to be that explicit input.
+We want the AI to value human life, but we currently lack a clear, explicit way to provide the input it needs to understand *how* valuable life is; AVOL is designed to be that explicit input.
 
 ### Value of Life of an AI
 
