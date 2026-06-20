@@ -17,7 +17,7 @@ Our current mode of evaluation is bad. We can only decipher the internal, underl
 The Algorithmic Value of Life (AVOL) is an attempt to systematize these values — to make the implicit mathematically explicit.
 
 There will be
-- A clear quantified value (which we'll call **points** or **point value**)
+- A clear quantified **value** (which we'll measure in **points** or **point value**)
 - per living thing (which we'll call an **entity**)
 - and an open, auditable method for arriving at that value (which we'll call the **evaluation script** or **eval script**)
 
@@ -26,11 +26,12 @@ It works like this:
 ```mermaid
 graph LR
 1["Problem Involving<br>Living Entities"]
-2["Eval Script"]
-3["Behavior according to<br>Values"]
+2["AVOL Script"]
+3["Behavior according to<br>Point Values"]
 1--"Data on<br>Living Entities"-->2
-2--Values-->3
+2--Point Values-->3
 ````
+
 
 1. **HAVE RULES**: Manage a set of generalized rules.
 	1. Bad Form:
